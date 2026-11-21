@@ -25,17 +25,16 @@ no Brasil e no exterior.
 Hoje são **mais de 2.400 itens** para **colheitadeiras, plantadeiras, pulverizadores e plataformas**, compatíveis com
 as principais marcas do campo, levados a produtores e revendas de **12 países**:
 
-> 🇧🇷 Brasil · 🇦🇷 Argentina · 🇺🇾 Uruguai · 🇵🇾 Paraguai · 🇧🇴 Bolívia · 🇵🇪 Peru · 🇨🇴 Colômbia ·
-> 🇩🇪 Alemanha · 🇦🇺 Austrália · 🇨🇦 Canadá · 🇵🇱 Polônia · 🇺🇦 Ucrânia
+> 🌎 **Américas:** Brasil · Argentina · Uruguai · Paraguai · Bolívia · Peru · Colômbia · Canadá<br>
+> 🌍 **Europa:** Alemanha · Polônia · Ucrânia<br>
+> 🌏 **Oceania:** Austrália
 
 Desde 2008 a gestão é orientada pela **qualidade (ISO 9001)** e pelo planejamento de longo prazo, com
 reconhecimento em premiações nacionais e internacionais.
 
-| | |
-|---|---|
-| **Missão** | Dar ao cliente tranquilidade e segurança, com itens de alta performance para reposição no mercado agrícola. |
-| **Visão** | Ser líder na venda de peças e acessórios agrícolas no Brasil. |
-| **Valores** | **Ética** · **Família** · **Qualidade** · **Inovação** |
+- 🎯 **Missão:** dar ao cliente tranquilidade e segurança, com itens de alta performance para reposição no mercado agrícola.
+- 🔭 **Visão:** ser líder na venda de peças e acessórios agrícolas no Brasil.
+- 🤝 **Valores:** Ética · Família · Qualidade · Inovação.
 
 ## Sobre a TI
 
